@@ -1,0 +1,2 @@
+# MetodyObliczeniowe
+Informatyka_rok2_PK
