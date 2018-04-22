@@ -1,2 +1,2 @@
 # MetodyObliczeniowe
-Informatyka_rok2_PK
+PK_WFMII_Informatyka_rok2_semIV
